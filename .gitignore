@@ -1,0 +1,46 @@
+
+# Jupyter Notebook checkpoints and virtual documents
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Data files (Exclude raw datasets from GitHub)
+*.csv
+*.txt
+# Or target the specific folder if you move them:
+# data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit Secrets
+.streamlit/secrets.toml
+
+# Environment Files
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+HI-Small_accounts.csv
+HI-Small_Trans.csv
+HI-Small_Patterns.txt
+test.csv
+Model.ipynb
