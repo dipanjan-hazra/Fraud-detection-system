@@ -166,47 +166,6 @@ If Fraud Probability exceeds the defined threshold:
 
 ---
 
-## ⚙️ Installation
-
-Clone Repository
-
-```bash
-git clone https://github.com/your-username/fraud-detection-system.git
-```
-
-Move Into Project
-
-```bash
-cd fraud-detection-system
-```
-
-Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run Application
-
-```bash
-streamlit run app.py
-```
-
----
-
-## 🔑 Environment Variables
-
-Configure Streamlit Secrets:
-
-```toml
-SUPABASE_URL="YOUR_SUPABASE_URL"
-SUPABASE_KEY="YOUR_SUPABASE_KEY"
-
-EMAIL_ADDRESS="YOUR_EMAIL"
-EMAIL_PASSWORD="YOUR_APP_PASSWORD"
-```
-
----
 
 ## 📈 Future Improvements
 
